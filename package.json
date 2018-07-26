@@ -1,0 +1,10 @@
+{
+  "name": "icoplatform-test-lambda-telegram-travisci",
+  "vision": "0.0.0",
+  "private": true,
+  "scripts": {
+    "test": "echo \"no test specified\""
+    },
+    dependencies : {
+    }
+   }
