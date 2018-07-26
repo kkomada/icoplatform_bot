@@ -13,8 +13,8 @@ before_deploy:
 
 deploy:
   - provider: s3
-    access_key_id: AKIAIUC57QGUJGIXP7AA # $AWS_ACCESS_KEY # Travis CI에서 설정한 AWS_ACCESS_KEY
-    secret_access_key: Oth9m2VVnJFw09E/ghp1y+vDzAWoM34C0XdqBg3h #$AWS_SECRET_KEY # Travis CI에서 설정한 AWS_SECRET_KEY
+    access_key_id: $AWS_ACCESS_KEY # Travis CI에서 설정한 AWS_ACCESS_KEY
+    secret_access_key: $AWS_SECRET_KEY # Travis CI에서 설정한 AWS_SECRET_KEY
     bucket: icoplatform-test-lambda-telegram-travisci # S3 bucket 명
     region: ap-northeast-2
     skip_cleanup: true
