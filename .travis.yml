@@ -6,7 +6,7 @@ branches:
   only:
     - master
     
-script: "node src/build.js"
+script: "node build.js"
 
 # deploy전에 실행할 명령어
 before_deploy:
