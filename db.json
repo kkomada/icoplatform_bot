@@ -1,6 +1,26 @@
 {
   "recruits": [
     {
+      "team": "Private Sale",
+      "link": "2018.7.01 ~ 2018.8.31 (45,000 ICC = 1ETH)"
+    },
+    {
+      "team": "Pre-Sale",
+      "link": "2018.9.01 ~ 2018.9.30 (35,000 ICC = 1ETH)"
+    },
+    {
+      "team": "Public sale",
+      "link": "2018.10.01 ~ 2018.10.31 (25,000 ICC = 1ETH)"
+    },
+    {
+      "team": "참여정보(한국어)",
+      "link": "http://www.icoplatform.io"
+    },
+    {
+      "team": "참여정보(영어)",
+      "link": "http://www.icoplatform.io"
+    },
+    {
       "team": "웹사이트",
       "link": "http://www.icoplatform.io"
     }
